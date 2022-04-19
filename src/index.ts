@@ -1,1 +1,3 @@
-console.log(0);
+import { startServer } from "./startServer";
+
+startServer();
